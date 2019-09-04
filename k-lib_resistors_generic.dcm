@@ -1,0 +1,3361 @@
+EESchema-DOCLIB  Version 2.0 
+#
+$CMP GR_0402_1R
+D Generic 0402 resitor 1R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_1.1R
+D Generic 0402 resitor 1.1R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_1.2R
+D Generic 0402 resitor 1.2R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_1.3R
+D Generic 0402 resitor 1.3R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_1.5R
+D Generic 0402 resitor 1.5R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_1.6R
+D Generic 0402 resitor 1.6R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_1.8R
+D Generic 0402 resitor 1.8R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_2R
+D Generic 0402 resitor 2R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_2.2R
+D Generic 0402 resitor 2.2R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_2.4R
+D Generic 0402 resitor 2.4R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_2.7R
+D Generic 0402 resitor 2.7R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_3R
+D Generic 0402 resitor 3R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_3.3R
+D Generic 0402 resitor 3.3R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_3.6R
+D Generic 0402 resitor 3.6R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_3.9R
+D Generic 0402 resitor 3.9R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_4.3R
+D Generic 0402 resitor 4.3R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_4.7R
+D Generic 0402 resitor 4.7R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_5.1R
+D Generic 0402 resitor 5.1R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_5.6R
+D Generic 0402 resitor 5.6R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_6.2R
+D Generic 0402 resitor 6.2R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_6.8R
+D Generic 0402 resitor 6.8R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_7.5R
+D Generic 0402 resitor 7.5R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_8.2R
+D Generic 0402 resitor 8.2R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_9.1R
+D Generic 0402 resitor 9.1R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_10R
+D Generic 0402 resitor 10R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_11R
+D Generic 0402 resitor 11R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_12R
+D Generic 0402 resitor 12R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_13R
+D Generic 0402 resitor 13R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_15R
+D Generic 0402 resitor 15R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_16R
+D Generic 0402 resitor 16R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_18R
+D Generic 0402 resitor 18R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_20R
+D Generic 0402 resitor 20R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_22R
+D Generic 0402 resitor 22R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_24R
+D Generic 0402 resitor 24R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_27R
+D Generic 0402 resitor 27R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_30R
+D Generic 0402 resitor 30R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_33R
+D Generic 0402 resitor 33R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_36R
+D Generic 0402 resitor 36R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_39R
+D Generic 0402 resitor 39R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_43R
+D Generic 0402 resitor 43R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_47R
+D Generic 0402 resitor 47R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_51R
+D Generic 0402 resitor 51R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_56R
+D Generic 0402 resitor 56R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_62R
+D Generic 0402 resitor 62R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_68R
+D Generic 0402 resitor 68R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_75R
+D Generic 0402 resitor 75R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_82R
+D Generic 0402 resitor 82R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_91R
+D Generic 0402 resitor 91R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_100R
+D Generic 0402 resitor 100R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_110R
+D Generic 0402 resitor 110R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_120R
+D Generic 0402 resitor 120R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_130R
+D Generic 0402 resitor 130R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_150R
+D Generic 0402 resitor 150R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_160R
+D Generic 0402 resitor 160R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_180R
+D Generic 0402 resitor 180R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_200R
+D Generic 0402 resitor 200R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_220R
+D Generic 0402 resitor 220R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_240R
+D Generic 0402 resitor 240R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_270R
+D Generic 0402 resitor 270R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_300R
+D Generic 0402 resitor 300R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_330R
+D Generic 0402 resitor 330R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_360R
+D Generic 0402 resitor 360R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_390R
+D Generic 0402 resitor 390R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_430R
+D Generic 0402 resitor 430R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_470R
+D Generic 0402 resitor 470R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_510R
+D Generic 0402 resitor 510R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_560R
+D Generic 0402 resitor 560R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_620R
+D Generic 0402 resitor 620R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_680R
+D Generic 0402 resitor 680R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_750R
+D Generic 0402 resitor 750R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_820R
+D Generic 0402 resitor 820R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_910R
+D Generic 0402 resitor 910R 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_1K
+D Generic 0402 resitor 1K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_1.1K
+D Generic 0402 resitor 1.1K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_1.2K
+D Generic 0402 resitor 1.2K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_1.3K
+D Generic 0402 resitor 1.3K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_1.5K
+D Generic 0402 resitor 1.5K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_1.6K
+D Generic 0402 resitor 1.6K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_1.8K
+D Generic 0402 resitor 1.8K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_2K
+D Generic 0402 resitor 2K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_2.2K
+D Generic 0402 resitor 2.2K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_2.4K
+D Generic 0402 resitor 2.4K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_2.7K
+D Generic 0402 resitor 2.7K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_3K
+D Generic 0402 resitor 3K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_3.3K
+D Generic 0402 resitor 3.3K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_3.6K
+D Generic 0402 resitor 3.6K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_3.9K
+D Generic 0402 resitor 3.9K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_4.3K
+D Generic 0402 resitor 4.3K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_4.7K
+D Generic 0402 resitor 4.7K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_5.1K
+D Generic 0402 resitor 5.1K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_5.6K
+D Generic 0402 resitor 5.6K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_6.2K
+D Generic 0402 resitor 6.2K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_6.8K
+D Generic 0402 resitor 6.8K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_7.5K
+D Generic 0402 resitor 7.5K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_8.2K
+D Generic 0402 resitor 8.2K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_9.1K
+D Generic 0402 resitor 9.1K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_10K
+D Generic 0402 resitor 10K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_11K
+D Generic 0402 resitor 11K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_12K
+D Generic 0402 resitor 12K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_13K
+D Generic 0402 resitor 13K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_15K
+D Generic 0402 resitor 15K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_16K
+D Generic 0402 resitor 16K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_18K
+D Generic 0402 resitor 18K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_20K
+D Generic 0402 resitor 20K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_22K
+D Generic 0402 resitor 22K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_24K
+D Generic 0402 resitor 24K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_27K
+D Generic 0402 resitor 27K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_30K
+D Generic 0402 resitor 30K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_33K
+D Generic 0402 resitor 33K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_36K
+D Generic 0402 resitor 36K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_39K
+D Generic 0402 resitor 39K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_43K
+D Generic 0402 resitor 43K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_47K
+D Generic 0402 resitor 47K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_51K
+D Generic 0402 resitor 51K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_56K
+D Generic 0402 resitor 56K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_62K
+D Generic 0402 resitor 62K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_68K
+D Generic 0402 resitor 68K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_75K
+D Generic 0402 resitor 75K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_82K
+D Generic 0402 resitor 82K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_91K
+D Generic 0402 resitor 91K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_100K
+D Generic 0402 resitor 100K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_110K
+D Generic 0402 resitor 110K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_120K
+D Generic 0402 resitor 120K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_130K
+D Generic 0402 resitor 130K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_150K
+D Generic 0402 resitor 150K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_160K
+D Generic 0402 resitor 160K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_180K
+D Generic 0402 resitor 180K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_200K
+D Generic 0402 resitor 200K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_220K
+D Generic 0402 resitor 220K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_240K
+D Generic 0402 resitor 240K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_270K
+D Generic 0402 resitor 270K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_300K
+D Generic 0402 resitor 300K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_330K
+D Generic 0402 resitor 330K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_360K
+D Generic 0402 resitor 360K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_390K
+D Generic 0402 resitor 390K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_430K
+D Generic 0402 resitor 430K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_470K
+D Generic 0402 resitor 470K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_510K
+D Generic 0402 resitor 510K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_560K
+D Generic 0402 resitor 560K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_620K
+D Generic 0402 resitor 620K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_680K
+D Generic 0402 resitor 680K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_750K
+D Generic 0402 resitor 750K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_820K
+D Generic 0402 resitor 820K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_910K
+D Generic 0402 resitor 910K 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_1M
+D Generic 0402 resitor 1M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_1.1M
+D Generic 0402 resitor 1.1M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_1.2M
+D Generic 0402 resitor 1.2M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_1.3M
+D Generic 0402 resitor 1.3M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_1.5M
+D Generic 0402 resitor 1.5M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_1.6M
+D Generic 0402 resitor 1.6M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_1.8M
+D Generic 0402 resitor 1.8M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_2M
+D Generic 0402 resitor 2M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_2.2M
+D Generic 0402 resitor 2.2M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_2.4M
+D Generic 0402 resitor 2.4M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_2.7M
+D Generic 0402 resitor 2.7M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_3M
+D Generic 0402 resitor 3M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_3.3M
+D Generic 0402 resitor 3.3M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_3.6M
+D Generic 0402 resitor 3.6M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_3.9M
+D Generic 0402 resitor 3.9M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_4.3M
+D Generic 0402 resitor 4.3M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_4.7M
+D Generic 0402 resitor 4.7M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_5.1M
+D Generic 0402 resitor 5.1M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_5.6M
+D Generic 0402 resitor 5.6M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_6.2M
+D Generic 0402 resitor 6.2M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_6.8M
+D Generic 0402 resitor 6.8M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_7.5M
+D Generic 0402 resitor 7.5M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_8.2M
+D Generic 0402 resitor 8.2M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0402_9.1M
+D Generic 0402 resitor 9.1M 1% 63mW 50V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_1R
+D Generic 0603 resitor 1R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_1.1R
+D Generic 0603 resitor 1.1R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_1.2R
+D Generic 0603 resitor 1.2R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_1.3R
+D Generic 0603 resitor 1.3R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_1.5R
+D Generic 0603 resitor 1.5R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_1.6R
+D Generic 0603 resitor 1.6R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_1.8R
+D Generic 0603 resitor 1.8R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_2R
+D Generic 0603 resitor 2R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_2.2R
+D Generic 0603 resitor 2.2R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_2.4R
+D Generic 0603 resitor 2.4R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_2.7R
+D Generic 0603 resitor 2.7R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_3R
+D Generic 0603 resitor 3R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_3.3R
+D Generic 0603 resitor 3.3R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_3.6R
+D Generic 0603 resitor 3.6R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_3.9R
+D Generic 0603 resitor 3.9R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_4.3R
+D Generic 0603 resitor 4.3R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_4.7R
+D Generic 0603 resitor 4.7R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_5.1R
+D Generic 0603 resitor 5.1R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_5.6R
+D Generic 0603 resitor 5.6R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_6.2R
+D Generic 0603 resitor 6.2R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_6.8R
+D Generic 0603 resitor 6.8R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_7.5R
+D Generic 0603 resitor 7.5R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_8.2R
+D Generic 0603 resitor 8.2R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_9.1R
+D Generic 0603 resitor 9.1R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_10R
+D Generic 0603 resitor 10R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_11R
+D Generic 0603 resitor 11R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_12R
+D Generic 0603 resitor 12R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_13R
+D Generic 0603 resitor 13R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_15R
+D Generic 0603 resitor 15R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_16R
+D Generic 0603 resitor 16R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_18R
+D Generic 0603 resitor 18R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_20R
+D Generic 0603 resitor 20R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_22R
+D Generic 0603 resitor 22R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_24R
+D Generic 0603 resitor 24R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_27R
+D Generic 0603 resitor 27R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_30R
+D Generic 0603 resitor 30R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_33R
+D Generic 0603 resitor 33R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_36R
+D Generic 0603 resitor 36R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_39R
+D Generic 0603 resitor 39R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_43R
+D Generic 0603 resitor 43R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_47R
+D Generic 0603 resitor 47R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_51R
+D Generic 0603 resitor 51R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_56R
+D Generic 0603 resitor 56R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_62R
+D Generic 0603 resitor 62R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_68R
+D Generic 0603 resitor 68R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_75R
+D Generic 0603 resitor 75R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_82R
+D Generic 0603 resitor 82R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_91R
+D Generic 0603 resitor 91R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_100R
+D Generic 0603 resitor 100R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_110R
+D Generic 0603 resitor 110R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_120R
+D Generic 0603 resitor 120R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_130R
+D Generic 0603 resitor 130R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_150R
+D Generic 0603 resitor 150R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_160R
+D Generic 0603 resitor 160R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_180R
+D Generic 0603 resitor 180R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_200R
+D Generic 0603 resitor 200R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_220R
+D Generic 0603 resitor 220R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_240R
+D Generic 0603 resitor 240R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_270R
+D Generic 0603 resitor 270R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_300R
+D Generic 0603 resitor 300R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_330R
+D Generic 0603 resitor 330R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_360R
+D Generic 0603 resitor 360R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_390R
+D Generic 0603 resitor 390R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_430R
+D Generic 0603 resitor 430R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_470R
+D Generic 0603 resitor 470R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_510R
+D Generic 0603 resitor 510R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_560R
+D Generic 0603 resitor 560R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_620R
+D Generic 0603 resitor 620R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_680R
+D Generic 0603 resitor 680R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_750R
+D Generic 0603 resitor 750R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_820R
+D Generic 0603 resitor 820R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_910R
+D Generic 0603 resitor 910R 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_1K
+D Generic 0603 resitor 1K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_1.1K
+D Generic 0603 resitor 1.1K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_1.2K
+D Generic 0603 resitor 1.2K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_1.3K
+D Generic 0603 resitor 1.3K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_1.5K
+D Generic 0603 resitor 1.5K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_1.6K
+D Generic 0603 resitor 1.6K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_1.8K
+D Generic 0603 resitor 1.8K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_2K
+D Generic 0603 resitor 2K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_2.2K
+D Generic 0603 resitor 2.2K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_2.4K
+D Generic 0603 resitor 2.4K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_2.7K
+D Generic 0603 resitor 2.7K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_3K
+D Generic 0603 resitor 3K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_3.3K
+D Generic 0603 resitor 3.3K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_3.6K
+D Generic 0603 resitor 3.6K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_3.9K
+D Generic 0603 resitor 3.9K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_4.3K
+D Generic 0603 resitor 4.3K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_4.7K
+D Generic 0603 resitor 4.7K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_5.1K
+D Generic 0603 resitor 5.1K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_5.6K
+D Generic 0603 resitor 5.6K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_6.2K
+D Generic 0603 resitor 6.2K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_6.8K
+D Generic 0603 resitor 6.8K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_7.5K
+D Generic 0603 resitor 7.5K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_8.2K
+D Generic 0603 resitor 8.2K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_9.1K
+D Generic 0603 resitor 9.1K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_10K
+D Generic 0603 resitor 10K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_11K
+D Generic 0603 resitor 11K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_12K
+D Generic 0603 resitor 12K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_13K
+D Generic 0603 resitor 13K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_15K
+D Generic 0603 resitor 15K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_16K
+D Generic 0603 resitor 16K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_18K
+D Generic 0603 resitor 18K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_20K
+D Generic 0603 resitor 20K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_22K
+D Generic 0603 resitor 22K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_24K
+D Generic 0603 resitor 24K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_27K
+D Generic 0603 resitor 27K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_30K
+D Generic 0603 resitor 30K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_33K
+D Generic 0603 resitor 33K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_36K
+D Generic 0603 resitor 36K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_39K
+D Generic 0603 resitor 39K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_43K
+D Generic 0603 resitor 43K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_47K
+D Generic 0603 resitor 47K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_51K
+D Generic 0603 resitor 51K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_56K
+D Generic 0603 resitor 56K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_62K
+D Generic 0603 resitor 62K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_68K
+D Generic 0603 resitor 68K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_75K
+D Generic 0603 resitor 75K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_82K
+D Generic 0603 resitor 82K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_91K
+D Generic 0603 resitor 91K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_100K
+D Generic 0603 resitor 100K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_110K
+D Generic 0603 resitor 110K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_120K
+D Generic 0603 resitor 120K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_130K
+D Generic 0603 resitor 130K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_150K
+D Generic 0603 resitor 150K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_160K
+D Generic 0603 resitor 160K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_180K
+D Generic 0603 resitor 180K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_200K
+D Generic 0603 resitor 200K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_220K
+D Generic 0603 resitor 220K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_240K
+D Generic 0603 resitor 240K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_270K
+D Generic 0603 resitor 270K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_300K
+D Generic 0603 resitor 300K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_330K
+D Generic 0603 resitor 330K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_360K
+D Generic 0603 resitor 360K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_390K
+D Generic 0603 resitor 390K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_430K
+D Generic 0603 resitor 430K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_470K
+D Generic 0603 resitor 470K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_510K
+D Generic 0603 resitor 510K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_560K
+D Generic 0603 resitor 560K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_620K
+D Generic 0603 resitor 620K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_680K
+D Generic 0603 resitor 680K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_750K
+D Generic 0603 resitor 750K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_820K
+D Generic 0603 resitor 820K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_910K
+D Generic 0603 resitor 910K 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_1M
+D Generic 0603 resitor 1M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_1.1M
+D Generic 0603 resitor 1.1M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_1.2M
+D Generic 0603 resitor 1.2M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_1.3M
+D Generic 0603 resitor 1.3M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_1.5M
+D Generic 0603 resitor 1.5M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_1.6M
+D Generic 0603 resitor 1.6M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_1.8M
+D Generic 0603 resitor 1.8M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_2M
+D Generic 0603 resitor 2M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_2.2M
+D Generic 0603 resitor 2.2M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_2.4M
+D Generic 0603 resitor 2.4M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_2.7M
+D Generic 0603 resitor 2.7M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_3M
+D Generic 0603 resitor 3M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_3.3M
+D Generic 0603 resitor 3.3M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_3.6M
+D Generic 0603 resitor 3.6M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_3.9M
+D Generic 0603 resitor 3.9M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_4.3M
+D Generic 0603 resitor 4.3M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_4.7M
+D Generic 0603 resitor 4.7M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_5.1M
+D Generic 0603 resitor 5.1M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_5.6M
+D Generic 0603 resitor 5.6M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_6.2M
+D Generic 0603 resitor 6.2M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_6.8M
+D Generic 0603 resitor 6.8M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_7.5M
+D Generic 0603 resitor 7.5M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_8.2M
+D Generic 0603 resitor 8.2M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0603_9.1M
+D Generic 0603 resitor 9.1M 1% 100mW 75V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_1R
+D Generic 0805 resitor 1R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_1.1R
+D Generic 0805 resitor 1.1R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_1.2R
+D Generic 0805 resitor 1.2R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_1.3R
+D Generic 0805 resitor 1.3R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_1.5R
+D Generic 0805 resitor 1.5R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_1.6R
+D Generic 0805 resitor 1.6R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_1.8R
+D Generic 0805 resitor 1.8R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_2R
+D Generic 0805 resitor 2R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_2.2R
+D Generic 0805 resitor 2.2R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_2.4R
+D Generic 0805 resitor 2.4R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_2.7R
+D Generic 0805 resitor 2.7R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_3R
+D Generic 0805 resitor 3R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_3.3R
+D Generic 0805 resitor 3.3R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_3.6R
+D Generic 0805 resitor 3.6R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_3.9R
+D Generic 0805 resitor 3.9R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_4.3R
+D Generic 0805 resitor 4.3R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_4.7R
+D Generic 0805 resitor 4.7R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_5.1R
+D Generic 0805 resitor 5.1R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_5.6R
+D Generic 0805 resitor 5.6R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_6.2R
+D Generic 0805 resitor 6.2R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_6.8R
+D Generic 0805 resitor 6.8R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_7.5R
+D Generic 0805 resitor 7.5R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_8.2R
+D Generic 0805 resitor 8.2R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_9.1R
+D Generic 0805 resitor 9.1R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_10R
+D Generic 0805 resitor 10R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_11R
+D Generic 0805 resitor 11R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_12R
+D Generic 0805 resitor 12R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_13R
+D Generic 0805 resitor 13R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_15R
+D Generic 0805 resitor 15R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_16R
+D Generic 0805 resitor 16R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_18R
+D Generic 0805 resitor 18R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_20R
+D Generic 0805 resitor 20R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_22R
+D Generic 0805 resitor 22R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_24R
+D Generic 0805 resitor 24R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_27R
+D Generic 0805 resitor 27R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_30R
+D Generic 0805 resitor 30R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_33R
+D Generic 0805 resitor 33R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_36R
+D Generic 0805 resitor 36R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_39R
+D Generic 0805 resitor 39R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_43R
+D Generic 0805 resitor 43R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_47R
+D Generic 0805 resitor 47R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_51R
+D Generic 0805 resitor 51R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_56R
+D Generic 0805 resitor 56R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_62R
+D Generic 0805 resitor 62R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_68R
+D Generic 0805 resitor 68R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_75R
+D Generic 0805 resitor 75R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_82R
+D Generic 0805 resitor 82R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_91R
+D Generic 0805 resitor 91R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_100R
+D Generic 0805 resitor 100R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_110R
+D Generic 0805 resitor 110R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_120R
+D Generic 0805 resitor 120R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_130R
+D Generic 0805 resitor 130R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_150R
+D Generic 0805 resitor 150R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_160R
+D Generic 0805 resitor 160R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_180R
+D Generic 0805 resitor 180R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_200R
+D Generic 0805 resitor 200R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_220R
+D Generic 0805 resitor 220R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_240R
+D Generic 0805 resitor 240R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_270R
+D Generic 0805 resitor 270R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_300R
+D Generic 0805 resitor 300R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_330R
+D Generic 0805 resitor 330R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_360R
+D Generic 0805 resitor 360R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_390R
+D Generic 0805 resitor 390R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_430R
+D Generic 0805 resitor 430R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_470R
+D Generic 0805 resitor 470R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_510R
+D Generic 0805 resitor 510R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_560R
+D Generic 0805 resitor 560R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_620R
+D Generic 0805 resitor 620R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_680R
+D Generic 0805 resitor 680R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_750R
+D Generic 0805 resitor 750R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_820R
+D Generic 0805 resitor 820R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_910R
+D Generic 0805 resitor 910R 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_1K
+D Generic 0805 resitor 1K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_1.1K
+D Generic 0805 resitor 1.1K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_1.2K
+D Generic 0805 resitor 1.2K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_1.3K
+D Generic 0805 resitor 1.3K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_1.5K
+D Generic 0805 resitor 1.5K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_1.6K
+D Generic 0805 resitor 1.6K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_1.8K
+D Generic 0805 resitor 1.8K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_2K
+D Generic 0805 resitor 2K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_2.2K
+D Generic 0805 resitor 2.2K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_2.4K
+D Generic 0805 resitor 2.4K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_2.7K
+D Generic 0805 resitor 2.7K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_3K
+D Generic 0805 resitor 3K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_3.3K
+D Generic 0805 resitor 3.3K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_3.6K
+D Generic 0805 resitor 3.6K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_3.9K
+D Generic 0805 resitor 3.9K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_4.3K
+D Generic 0805 resitor 4.3K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_4.7K
+D Generic 0805 resitor 4.7K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_5.1K
+D Generic 0805 resitor 5.1K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_5.6K
+D Generic 0805 resitor 5.6K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_6.2K
+D Generic 0805 resitor 6.2K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_6.8K
+D Generic 0805 resitor 6.8K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_7.5K
+D Generic 0805 resitor 7.5K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_8.2K
+D Generic 0805 resitor 8.2K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_9.1K
+D Generic 0805 resitor 9.1K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_10K
+D Generic 0805 resitor 10K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_11K
+D Generic 0805 resitor 11K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_12K
+D Generic 0805 resitor 12K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_13K
+D Generic 0805 resitor 13K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_15K
+D Generic 0805 resitor 15K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_16K
+D Generic 0805 resitor 16K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_18K
+D Generic 0805 resitor 18K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_20K
+D Generic 0805 resitor 20K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_22K
+D Generic 0805 resitor 22K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_24K
+D Generic 0805 resitor 24K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_27K
+D Generic 0805 resitor 27K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_30K
+D Generic 0805 resitor 30K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_33K
+D Generic 0805 resitor 33K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_36K
+D Generic 0805 resitor 36K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_39K
+D Generic 0805 resitor 39K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_43K
+D Generic 0805 resitor 43K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_47K
+D Generic 0805 resitor 47K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_51K
+D Generic 0805 resitor 51K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_56K
+D Generic 0805 resitor 56K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_62K
+D Generic 0805 resitor 62K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_68K
+D Generic 0805 resitor 68K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_75K
+D Generic 0805 resitor 75K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_82K
+D Generic 0805 resitor 82K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_91K
+D Generic 0805 resitor 91K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_100K
+D Generic 0805 resitor 100K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_110K
+D Generic 0805 resitor 110K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_120K
+D Generic 0805 resitor 120K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_130K
+D Generic 0805 resitor 130K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_150K
+D Generic 0805 resitor 150K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_160K
+D Generic 0805 resitor 160K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_180K
+D Generic 0805 resitor 180K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_200K
+D Generic 0805 resitor 200K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_220K
+D Generic 0805 resitor 220K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_240K
+D Generic 0805 resitor 240K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_270K
+D Generic 0805 resitor 270K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_300K
+D Generic 0805 resitor 300K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_330K
+D Generic 0805 resitor 330K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_360K
+D Generic 0805 resitor 360K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_390K
+D Generic 0805 resitor 390K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_430K
+D Generic 0805 resitor 430K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_470K
+D Generic 0805 resitor 470K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_510K
+D Generic 0805 resitor 510K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_560K
+D Generic 0805 resitor 560K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_620K
+D Generic 0805 resitor 620K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_680K
+D Generic 0805 resitor 680K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_750K
+D Generic 0805 resitor 750K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_820K
+D Generic 0805 resitor 820K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_910K
+D Generic 0805 resitor 910K 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_1M
+D Generic 0805 resitor 1M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_1.1M
+D Generic 0805 resitor 1.1M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_1.2M
+D Generic 0805 resitor 1.2M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_1.3M
+D Generic 0805 resitor 1.3M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_1.5M
+D Generic 0805 resitor 1.5M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_1.6M
+D Generic 0805 resitor 1.6M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_1.8M
+D Generic 0805 resitor 1.8M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_2M
+D Generic 0805 resitor 2M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_2.2M
+D Generic 0805 resitor 2.2M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_2.4M
+D Generic 0805 resitor 2.4M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_2.7M
+D Generic 0805 resitor 2.7M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_3M
+D Generic 0805 resitor 3M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_3.3M
+D Generic 0805 resitor 3.3M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_3.6M
+D Generic 0805 resitor 3.6M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_3.9M
+D Generic 0805 resitor 3.9M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_4.3M
+D Generic 0805 resitor 4.3M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_4.7M
+D Generic 0805 resitor 4.7M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_5.1M
+D Generic 0805 resitor 5.1M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_5.6M
+D Generic 0805 resitor 5.6M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_6.2M
+D Generic 0805 resitor 6.2M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_6.8M
+D Generic 0805 resitor 6.8M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_7.5M
+D Generic 0805 resitor 7.5M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_8.2M
+D Generic 0805 resitor 8.2M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_0805_9.1M
+D Generic 0805 resitor 9.1M 1% 125mW 150V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_1R
+D Generic 1206 resitor 1R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_1.1R
+D Generic 1206 resitor 1.1R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_1.2R
+D Generic 1206 resitor 1.2R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_1.3R
+D Generic 1206 resitor 1.3R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_1.5R
+D Generic 1206 resitor 1.5R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_1.6R
+D Generic 1206 resitor 1.6R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_1.8R
+D Generic 1206 resitor 1.8R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_2R
+D Generic 1206 resitor 2R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_2.2R
+D Generic 1206 resitor 2.2R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_2.4R
+D Generic 1206 resitor 2.4R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_2.7R
+D Generic 1206 resitor 2.7R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_3R
+D Generic 1206 resitor 3R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_3.3R
+D Generic 1206 resitor 3.3R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_3.6R
+D Generic 1206 resitor 3.6R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_3.9R
+D Generic 1206 resitor 3.9R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_4.3R
+D Generic 1206 resitor 4.3R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_4.7R
+D Generic 1206 resitor 4.7R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_5.1R
+D Generic 1206 resitor 5.1R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_5.6R
+D Generic 1206 resitor 5.6R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_6.2R
+D Generic 1206 resitor 6.2R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_6.8R
+D Generic 1206 resitor 6.8R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_7.5R
+D Generic 1206 resitor 7.5R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_8.2R
+D Generic 1206 resitor 8.2R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_9.1R
+D Generic 1206 resitor 9.1R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_10R
+D Generic 1206 resitor 10R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_11R
+D Generic 1206 resitor 11R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_12R
+D Generic 1206 resitor 12R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_13R
+D Generic 1206 resitor 13R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_15R
+D Generic 1206 resitor 15R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_16R
+D Generic 1206 resitor 16R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_18R
+D Generic 1206 resitor 18R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_20R
+D Generic 1206 resitor 20R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_22R
+D Generic 1206 resitor 22R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_24R
+D Generic 1206 resitor 24R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_27R
+D Generic 1206 resitor 27R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_30R
+D Generic 1206 resitor 30R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_33R
+D Generic 1206 resitor 33R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_36R
+D Generic 1206 resitor 36R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_39R
+D Generic 1206 resitor 39R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_43R
+D Generic 1206 resitor 43R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_47R
+D Generic 1206 resitor 47R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_51R
+D Generic 1206 resitor 51R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_56R
+D Generic 1206 resitor 56R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_62R
+D Generic 1206 resitor 62R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_68R
+D Generic 1206 resitor 68R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_75R
+D Generic 1206 resitor 75R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_82R
+D Generic 1206 resitor 82R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_91R
+D Generic 1206 resitor 91R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_100R
+D Generic 1206 resitor 100R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_110R
+D Generic 1206 resitor 110R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_120R
+D Generic 1206 resitor 120R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_130R
+D Generic 1206 resitor 130R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_150R
+D Generic 1206 resitor 150R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_160R
+D Generic 1206 resitor 160R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_180R
+D Generic 1206 resitor 180R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_200R
+D Generic 1206 resitor 200R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_220R
+D Generic 1206 resitor 220R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_240R
+D Generic 1206 resitor 240R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_270R
+D Generic 1206 resitor 270R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_300R
+D Generic 1206 resitor 300R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_330R
+D Generic 1206 resitor 330R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_360R
+D Generic 1206 resitor 360R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_390R
+D Generic 1206 resitor 390R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_430R
+D Generic 1206 resitor 430R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_470R
+D Generic 1206 resitor 470R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_510R
+D Generic 1206 resitor 510R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_560R
+D Generic 1206 resitor 560R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_620R
+D Generic 1206 resitor 620R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_680R
+D Generic 1206 resitor 680R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_750R
+D Generic 1206 resitor 750R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_820R
+D Generic 1206 resitor 820R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_910R
+D Generic 1206 resitor 910R 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_1K
+D Generic 1206 resitor 1K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_1.1K
+D Generic 1206 resitor 1.1K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_1.2K
+D Generic 1206 resitor 1.2K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_1.3K
+D Generic 1206 resitor 1.3K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_1.5K
+D Generic 1206 resitor 1.5K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_1.6K
+D Generic 1206 resitor 1.6K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_1.8K
+D Generic 1206 resitor 1.8K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_2K
+D Generic 1206 resitor 2K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_2.2K
+D Generic 1206 resitor 2.2K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_2.4K
+D Generic 1206 resitor 2.4K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_2.7K
+D Generic 1206 resitor 2.7K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_3K
+D Generic 1206 resitor 3K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_3.3K
+D Generic 1206 resitor 3.3K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_3.6K
+D Generic 1206 resitor 3.6K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_3.9K
+D Generic 1206 resitor 3.9K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_4.3K
+D Generic 1206 resitor 4.3K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_4.7K
+D Generic 1206 resitor 4.7K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_5.1K
+D Generic 1206 resitor 5.1K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_5.6K
+D Generic 1206 resitor 5.6K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_6.2K
+D Generic 1206 resitor 6.2K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_6.8K
+D Generic 1206 resitor 6.8K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_7.5K
+D Generic 1206 resitor 7.5K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_8.2K
+D Generic 1206 resitor 8.2K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_9.1K
+D Generic 1206 resitor 9.1K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_10K
+D Generic 1206 resitor 10K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_11K
+D Generic 1206 resitor 11K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_12K
+D Generic 1206 resitor 12K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_13K
+D Generic 1206 resitor 13K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_15K
+D Generic 1206 resitor 15K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_16K
+D Generic 1206 resitor 16K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_18K
+D Generic 1206 resitor 18K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_20K
+D Generic 1206 resitor 20K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_22K
+D Generic 1206 resitor 22K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_24K
+D Generic 1206 resitor 24K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_27K
+D Generic 1206 resitor 27K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_30K
+D Generic 1206 resitor 30K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_33K
+D Generic 1206 resitor 33K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_36K
+D Generic 1206 resitor 36K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_39K
+D Generic 1206 resitor 39K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_43K
+D Generic 1206 resitor 43K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_47K
+D Generic 1206 resitor 47K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_51K
+D Generic 1206 resitor 51K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_56K
+D Generic 1206 resitor 56K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_62K
+D Generic 1206 resitor 62K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_68K
+D Generic 1206 resitor 68K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_75K
+D Generic 1206 resitor 75K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_82K
+D Generic 1206 resitor 82K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_91K
+D Generic 1206 resitor 91K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_100K
+D Generic 1206 resitor 100K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_110K
+D Generic 1206 resitor 110K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_120K
+D Generic 1206 resitor 120K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_130K
+D Generic 1206 resitor 130K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_150K
+D Generic 1206 resitor 150K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_160K
+D Generic 1206 resitor 160K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_180K
+D Generic 1206 resitor 180K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_200K
+D Generic 1206 resitor 200K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_220K
+D Generic 1206 resitor 220K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_240K
+D Generic 1206 resitor 240K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_270K
+D Generic 1206 resitor 270K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_300K
+D Generic 1206 resitor 300K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_330K
+D Generic 1206 resitor 330K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_360K
+D Generic 1206 resitor 360K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_390K
+D Generic 1206 resitor 390K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_430K
+D Generic 1206 resitor 430K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_470K
+D Generic 1206 resitor 470K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_510K
+D Generic 1206 resitor 510K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_560K
+D Generic 1206 resitor 560K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_620K
+D Generic 1206 resitor 620K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_680K
+D Generic 1206 resitor 680K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_750K
+D Generic 1206 resitor 750K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_820K
+D Generic 1206 resitor 820K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_910K
+D Generic 1206 resitor 910K 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_1M
+D Generic 1206 resitor 1M 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_1.1M
+D Generic 1206 resitor 1.1M 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_1.2M
+D Generic 1206 resitor 1.2M 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_1.3M
+D Generic 1206 resitor 1.3M 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_1.5M
+D Generic 1206 resitor 1.5M 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_1.6M
+D Generic 1206 resitor 1.6M 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_1.8M
+D Generic 1206 resitor 1.8M 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_2M
+D Generic 1206 resitor 2M 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_2.2M
+D Generic 1206 resitor 2.2M 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_2.4M
+D Generic 1206 resitor 2.4M 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_2.7M
+D Generic 1206 resitor 2.7M 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_3M
+D Generic 1206 resitor 3M 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_3.3M
+D Generic 1206 resitor 3.3M 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_3.6M
+D Generic 1206 resitor 3.6M 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_3.9M
+D Generic 1206 resitor 3.9M 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_4.3M
+D Generic 1206 resitor 4.3M 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_4.7M
+D Generic 1206 resitor 4.7M 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_5.1M
+D Generic 1206 resitor 5.1M 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_5.6M
+D Generic 1206 resitor 5.6M 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_6.2M
+D Generic 1206 resitor 6.2M 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_6.8M
+D Generic 1206 resitor 6.8M 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_7.5M
+D Generic 1206 resitor 7.5M 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_8.2M
+D Generic 1206 resitor 8.2M 1% 250mW 200V
+F ~
+$ENDCMP
+#
+$CMP GR_1206_9.1M
+D Generic 1206 resitor 9.1M 1% 250mW 200V
+F ~
+$ENDCMP
